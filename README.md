@@ -37,7 +37,7 @@ Integración, documentación y pruebas de endpoints
 
 ## 🚀 Proyectos destacados
 
-* **[ReversoLab](reversolab.com)** — Sitio corporativo multiidioma (ES/EN) desarrollado y mantenido en WordPress y Elementor para un cliente en Barcelona.
+* **[ReversoLab]([reversolab.com](https://reversolab.com/))** — Sitio corporativo multiidioma (ES/EN) desarrollado y mantenido en WordPress y Elementor para un cliente en Barcelona.
 
 * **[Digital Displays](TU-REPO)** — Ecommerce desarrollado y mantenido en Shopify para el mercado español, trabajando sobre la configuración y funcionalidades de la tienda.
 
