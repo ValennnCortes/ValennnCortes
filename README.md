@@ -37,11 +37,16 @@ Integración, documentación y pruebas de endpoints
 
 ## 🚀 Proyectos destacados
 
-> _Agrega aquí 2-3 proyectos con una línea de descripción cada uno y el link al repo, por ejemplo:_
+* **[ReversoLab](TU-REPO)** — Sitio corporativo multiidioma (ES/EN) desarrollado y mantenido en WordPress y Elementor para un cliente en Barcelona.
 
-- **[Nombre del proyecto](#)** — breve descripción de qué hace y qué tecnologías usa.
-- **[Nombre del proyecto](#)** — breve descripción de qué hace y qué tecnologías usa.
-- **[Nombre del proyecto](#)** — breve descripción de qué hace y qué tecnologías usa.
+* **[Digital Displays](TU-REPO)** — Ecommerce desarrollado y mantenido en Shopify para el mercado español, trabajando sobre la configuración y funcionalidades de la tienda.
+
+* **[Limpia Express Cali](TU-REPO)** — Desarrollo y mantenimiento de funcionalidades en WordPress, incluyendo formularios de contacto y postulación, carga de archivos y notificaciones por correo.
+
+* **[WebFindYou / Listo Agency](TU-REPO)** — Trabajo en una plataforma web propietaria, participando en el desarrollo y ajustes en entorno de desarrollo antes de su paso a producción.
+
+* **[QS CMMS – Gestión de equipos biomédicos](TU-REPO)** — Corrección de fallas funcionales y personalización de un CMMS, incluyendo módulos clínicos, códigos QR para consulta desde celulares y dashboards de seguimiento.
+
 
 ---
 
