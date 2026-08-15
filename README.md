@@ -39,13 +39,13 @@ Integración, documentación y pruebas de endpoints
 
 * **[ReversoLab](https://reversolab.com/)** — Sitio corporativo multiidioma (ES/EN) desarrollado y mantenido en WordPress y Elementor para un cliente en Barcelona.
 
-* **[Digital Displays](TU-REPO)** — Ecommerce desarrollado y mantenido en Shopify para el mercado español, trabajando sobre la configuración y funcionalidades de la tienda.
+* **[Digital Displays](https://digitaldisplays.es/)** — Ecommerce desarrollado y mantenido en Shopify para el mercado español, trabajando sobre la configuración y funcionalidades de la tienda.
 
-* **[Limpia Express Cali](TU-REPO)** — Desarrollo y mantenimiento de funcionalidades en WordPress, incluyendo formularios de contacto y postulación, carga de archivos y notificaciones por correo.
+* **[Limpia Express Cali](https://www.limpiaexpresscali.com/)** — Desarrollo y mantenimiento de funcionalidades en WordPress, incluyendo formularios de contacto y postulación, carga de archivos y notificaciones por correo.
 
-* **[WebFindYou / Listo Agency](TU-REPO)** — Trabajo en una plataforma web propietaria, participando en el desarrollo y ajustes en entorno de desarrollo antes de su paso a producción.
+* **[WebFindYou / Listo Agency](http://listoagency.wfydev.com/)** — Trabajo en una plataforma web propietaria, participando en el desarrollo y ajustes en entorno de desarrollo antes de su paso a producción.
 
-* **[QS CMMS – Gestión de equipos biomédicos](TU-REPO)** — Corrección de fallas funcionales y personalización de un CMMS, incluyendo módulos clínicos, códigos QR para consulta desde celulares y dashboards de seguimiento.
+* **[QS CMMS – Gestión de equipos biomédicos](https://occidente.qsystems.co/qr/pages/login)** — Corrección de fallas funcionales y personalización de un CMMS, incluyendo módulos clínicos, códigos QR para consulta desde celulares y dashboards de seguimiento.
 
 
 ---
