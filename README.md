@@ -55,8 +55,8 @@ Integración, documentación y pruebas de endpoints
 - ✉️ cortesv429@gmail.com
 - 📞 316 244 0734
 - 📍 Cali, Colombia
-- 🔗 LinkedIn: [agregar URL]
-- 🌐 Portafolio: [agregar URL]
+- 🔗 LinkedIn: [www.linkedin.com/in/valentina-cortés-hurtado-86b65b173]
+
 
 ---
 
